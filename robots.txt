@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://faciylike.github.io/sitemap.xml
