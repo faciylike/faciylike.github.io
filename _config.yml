@@ -1,3 +1,5 @@
 title: "全球手机卡选购与激活中文导航"
 lang: zh-CN
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
