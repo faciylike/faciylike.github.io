@@ -21,10 +21,6 @@ layout: default
 
 　　日本、泰国、韩国、美国、英国、土耳其、新加坡等目的地更新频率更高；如需本地号或语音通话，请优先选择支持 VoLTE 的产品并确认是否需要实名。
 
----
-layout: default
----
-
 ## 按字母快速导航
 
 [ A ](#section-A) [ B ](#section-B) [ C ](#section-C) [ D ](#section-D) [ E ](#section-E) [ F ](#section-F) [ G ](#section-G) [ H ](#section-H) [ I ](#section-I) [ J ](#section-J) [ K ](#section-K) [ L ](#section-L) [ M ](#section-M) [ N ](#section-N) [ O ](#section-O) [ P ](#section-P) [ Q ](#section-Q) [ R ](#section-R) [ S ](#section-S) [ T ](#section-T) [ U ](#section-U) [ V ](#section-V) [ W ](#section-W) [ X ](#section-X) [ Y ](#section-Y) [ Z ](#section-Z)
