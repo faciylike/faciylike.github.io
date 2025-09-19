@@ -397,25 +397,23 @@ input&&input.addEventListener('input',()=>{const q=normalize(input.value||'');do
 <!-- BEGIN_HUB_FAQ -->
 ## FAQ
 
-### 哪些用户更适合使用国际上网卡/流量卡/手机卡？
-短期旅行、跨境差旅、多人共享上网与频繁更换目的地的用户最适合，按天/按流量套餐灵活选择。
-
-### 国际流量卡与本地SIM/机场电话卡如何选择？
-追求省心与覆盖可选国际流量卡，追求资费低可在目的地门店购买本地卡；行前可联系 ✈ [@esim1088](https://t.me/s/esim1088) 咨询行程方案。
-
-### 是否支持热点共享与多设备使用？
-多数套餐支持热点共享，但个别低价包有限制；购买前确认“热点共享/流量共享”是否受限。
-
-### 如何判断套餐是否有达量降速（FUP）？
-查看商品页资费说明或小票公示；如有FUP，达到阈值后速率会下降，重度使用建议更高档位。
+### 国际上网卡的FUP限速规则如何识别？
+关注套餐说明中的“达量降速/峰值速率”字段；达阈值后可能降至128–512kbps，建议按需选择更高档位。
 
 ### 我的手机是否兼容？有哪些基本要求？
-确保解锁机并支持当地常用频段；eSIM方案需机型支持eSIM配置；不确定可查询机型频段或咨询客服。
+建议解锁机并支持目的地常用频段；eSIM方案需机型支持eSIM配置；不确定可查询机型频段或咨询门店。
 
-### 遇到无法上网应如何排查？
-优先检查流量开关/数据漫游→设置正确APN→重启或切换飞行模式；仍异常可联系 ✈ [@esim1088](https://t.me/s/esim1088) 协助排查。
+### 是否可以热点共享与多设备？
+多数套餐允许热点共享，但需留意共享上限与速度限制；多人场景建议选择更高档位或路由器卡。
 
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "哪些用户更适合使用国际上网卡/流量卡/手机卡？", "acceptedAnswer": {"@type": "Answer", "text": "短期旅行、跨境差旅、多人共享上网与频繁更换目的地的用户最适合，按天/按流量套餐灵活选择。"}}, {"@type": "Question", "name": "国际流量卡与本地SIM/机场电话卡如何选择？", "acceptedAnswer": {"@type": "Answer", "text": "追求省心与覆盖可选国际流量卡，追求资费低可在目的地门店购买本地卡；行前可联系 ✈ @esim1088 咨询行程方案。"}}, {"@type": "Question", "name": "是否支持热点共享与多设备使用？", "acceptedAnswer": {"@type": "Answer", "text": "多数套餐支持热点共享，但个别低价包有限制；购买前确认“热点共享/流量共享”是否受限。"}}, {"@type": "Question", "name": "如何判断套餐是否有达量降速（FUP）？", "acceptedAnswer": {"@type": "Answer", "text": "查看商品页资费说明或小票公示；如有FUP，达到阈值后速率会下降，重度使用建议更高档位。"}}, {"@type": "Question", "name": "我的手机是否兼容？有哪些基本要求？", "acceptedAnswer": {"@type": "Answer", "text": "确保解锁机并支持当地常用频段；eSIM方案需机型支持eSIM配置；不确定可查询机型频段或咨询客服。"}}, {"@type": "Question", "name": "遇到无法上网应如何排查？", "acceptedAnswer": {"@type": "Answer", "text": "优先检查流量开关/数据漫游→设置正确APN→重启或切换飞行模式；仍异常可联系 ✈ @esim1088 协助排查。"}}]}
-</script>
+### 无法上网如何自查？
+检查SIM是否激活与套餐是否生效→核对APN→开关飞行模式→更换网络模式/手动搜网，再次测速验证。
+
+### eSIM与实体卡如何选择？
+eSIM省去插卡，适合主力机；实体卡兼容更广，适合备用机或路由器卡；按行程时长与设备选择。
+
+### 需要人工协助时怎么联系？
+可在购买前后获得远程配置与排障引导，需要时联系 ✈ [@esim1088](https://t.me/s/esim1088)（仅一次商务信息）。
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "国际上网卡的FUP限速规则如何识别？", "acceptedAnswer": {"@type": "Answer", "text": "关注套餐说明中的“达量降速/峰值速率”字段；达阈值后可能降至128–512kbps，建议按需选择更高档位。"}}, {"@type": "Question", "name": "我的手机是否兼容？有哪些基本要求？", "acceptedAnswer": {"@type": "Answer", "text": "建议解锁机并支持目的地常用频段；eSIM方案需机型支持eSIM配置；不确定可查询机型频段或咨询门店。"}}, {"@type": "Question", "name": "是否可以热点共享与多设备？", "acceptedAnswer": {"@type": "Answer", "text": "多数套餐允许热点共享，但需留意共享上限与速度限制；多人场景建议选择更高档位或路由器卡。"}}, {"@type": "Question", "name": "无法上网如何自查？", "acceptedAnswer": {"@type": "Answer", "text": "检查SIM是否激活与套餐是否生效→核对APN→开关飞行模式→更换网络模式/手动搜网，再次测速验证。"}}, {"@type": "Question", "name": "eSIM与实体卡如何选择？", "acceptedAnswer": {"@type": "Answer", "text": "eSIM省去插卡，适合主力机；实体卡兼容更广，适合备用机或路由器卡；按行程时长与设备选择。"}}, {"@type": "Question", "name": "需要人工协助时怎么联系？", "acceptedAnswer": {"@type": "Answer", "text": "可在购买前后获得远程配置与排障引导，需要时联系 ✈ @esim1088（仅一次商务信息）。"}}]}</script>
 <!-- END_HUB_FAQ -->
