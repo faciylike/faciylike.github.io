@@ -1,419 +1,251 @@
 ---
-title: "全球手机卡选购与激活中文导航"
+title: "全球手机卡选购与配置权威导航"
 lang: zh-CN
-description: "按国家快速直达手机卡购买、开卡、漫游设置与注意事项"
+description: "faciylike SIM"
 layout: default
-plugins: [jekyll-seo-tag]
 ---
+# 全球手机卡选购与配置权威导航
 
-{% seo %}
-<style>
-.container{max-width:1100px;margin:0 auto;}
-.hero{padding:28px 0 8px 0;}
-.hero h1{margin:0 0 6px 0;}
-.hero p{color:#4b5563;margin:6px 0 14px;}
-.hero .cta{display:flex;gap:10px;flex-wrap:wrap;}
-.btn{display:inline-block;padding:8px 14px;border-radius:8px;border:1px solid #0ea5e9;color:#0ea5e9;text-decoration:none;}
-.btn.primary{background:#0ea5e9;color:#fff;border-color:#0ea5e9;}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:10px 0 24px;}
-.card{display:block;border:1px solid #e5e7eb;border-radius:10px;padding:14px;text-decoration:none;background:#fff;transition:box-shadow .2s;}
-.card:hover{box-shadow:0 6px 16px rgba(0,0,0,.08);}
-.card-title{font-weight:600;color:#111827;margin-bottom:6px;}
-.card-desc{color:#6b7280;font-size:13px;}
-.alpha-nav a{margin-right:4px;}
-.search{margin:12px 0 8px;}
-.search input{width:100%;padding:10px 12px;border:1px solid #d1d5db;border-radius:8px;}
-ul.country-list{columns: 2; -webkit-columns: 2; -moz-columns: 2;}
-@media(min-width:900px){ul.country-list{columns:3;-webkit-columns:3;-moz-columns:3}}
-</style>
-<div class="container">
-<div class="hero">
-# 全球手机卡选购与激活中文导航
+无论您是跨国旅行、海外工作还是留学深造，一张合适的本地手机卡都是保持顺畅通讯、节省漫游费用的关键。本导航页汇集了全球超过180个国家/地区的手机卡（SIM卡）权威选购与配置指南，所有信息均基于2025年的最新政策与市场情况，旨在为您提供一站式的解决方案。更多实时动态，欢迎关注我们的Telegram频道 ✈ [@esim1088](https://t.me/s/esim1088)。
 
-　　按国家快速直达手机卡购买、开卡、漫游设置与注意事项。覆盖 168+ 国家/地区，持续更新。
-<div class="cta">
-<a class="btn primary" href="#countries">按国家浏览</a>
-<a class="btn" href="https://azpetavircava.github.io">切换到流量卡站 →</a>
-</div>
-</div>
-<div class="search"><input id="search" placeholder="输入国家/拼音/英文过滤列表…"/></div>
+## 业务 HUB 快速切换
 
----
+本业务站提供以下相关导航服务，您可以根据需要快速切换：
+*   **手机卡（当前）**
+*   [流量卡](https://azpetavircava.github.io)
 
-## 使用说明
+## 快速定位目的地
 
-　　请选择目的地国家进入对应页面，获取价格梯度、有效期、网络覆盖、速度表现、APN/激活步骤与常见问题。页面内容结构统一、便于快速对比选择。
+可通过下方搜索框输入国家或地区的中文名、英文名或拼音关键词进行快速过滤。
 
-## 热门目的地
+<input type="search" placeholder="输入国家或关键词快速定位手机卡" aria-label="国家搜索">
 
-<div class="cards">
-  <a class="card" href="https://faciylike.github.io/japan-sim-guides"><div class="card-title">日本</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/thailand-sim-guides"><div class="card-title">泰国</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/south-korea-sim-guides"><div class="card-title">韩国</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/united-states-sim-guides"><div class="card-title">美国</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/united-kingdom-sim-guides"><div class="card-title">英国</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/turkey-sim-guides"><div class="card-title">土耳其</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/singapore-sim-guides"><div class="card-title">新加坡</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/france-sim-guides"><div class="card-title">法国</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/germany-sim-guides"><div class="card-title">德国</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/italy-sim-guides"><div class="card-title">意大利</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/spain-sim-guides"><div class="card-title">西班牙</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/australia-sim-guides"><div class="card-title">澳大利亚</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/malaysia-sim-guides"><div class="card-title">马来西亚</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/indonesia-sim-guides"><div class="card-title">印尼</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/vietnam-sim-guides"><div class="card-title">越南</div><div class="card-desc">直达手机卡指南</div></a>
-  <a class="card" href="https://faciylike.github.io/united-arab-emirates-sim-guides"><div class="card-title">阿拉伯联合酋长国(阿联酋迪拜)</div><div class="card-desc">直达手机卡指南</div></a>
-</div>
+<!-- IO_NAVIGATION_BEGIN -->
 
-## 建议与说明
+[A](#section-a) [B](#section-b) [C](#section-c) [D](#section-d) [E](#section-e) [F](#section-f) [G](#section-g) [H](#section-h) [I](#section-i) [J](#section-j) [K](#section-k) [L](#section-l) [M](#section-m) [N](#section-n) [O](#section-o) [P](#section-p) [Q](#section-q) [R](#section-r) [S](#section-s) [T](#section-t) [U](#section-u) [V](#section-v) W X [Y](#section-y) [Z](#section-z)
 
-　　日本、泰国、韩国、美国、英国、土耳其、新加坡等目的地更新频率更高；如需本地号或语音通话，请优先选择支持 VoLTE 的产品并确认是否需要实名。
+<h3 id="section-a">A</h3>
+- [亚美尼亚](https://faciylike.github.io/armenia-sim-guides)
+- [奥地利](https://faciylike.github.io/austria-sim-guides)
+- [安哥拉](https://faciylike.github.io/angola-sim-guides)
+- [安圭拉](https://faciylike.github.io/anguilla-sim-guides)
+- [安提瓜和巴布达](https://faciylike.github.io/antigua-and-barbuda-sim-guides)
+- [澳大利亚](https://faciylike.github.io/australia-sim-guides)
+- [美属萨摩亚](https://faciylike.github.io/american-samoa-sim-guides)
+- [阿塞拜疆](https://faciylike.github.io/azerbaijan-sim-guides)
+- [阿富汗](https://faciylike.github.io/afghanistan-sim-guides)
+- [阿尔及利亚](https://faciylike.github.io/algeria-sim-guides)
+- [阿尔巴尼亚](https://faciylike.github.io/albania-sim-guides)
+- [阿根廷](https://faciylike.github.io/argentina-sim-guides)
+- [阿鲁巴](https://faciylike.github.io/aruba-sim-guides)
 
-<div id="countries"></div>
-## 全部国家
+<h3 id="section-b">B</h3>
+- [不丹](https://faciylike.github.io/bhutan-sim-guides)
+- [伯利兹](https://faciylike.github.io/belize-sim-guides)
+- [博茨瓦纳](https://faciylike.github.io/botswana-sim-guides)
+- [孟加拉国](https://faciylike.github.io/bangladesh-sim-guides)
+- [巴哈马](https://faciylike.github.io/bahamas-sim-guides)
+- [巴巴多斯](https://faciylike.github.io/barbados-sim-guides)
+- [巴林](https://faciylike.github.io/bahrain-sim-guides)
+- [巴西](https://faciylike.github.io/brazil-sim-guides)
+- [布基纳法索](https://faciylike.github.io/burkina-faso-sim-guides)
+- [布隆迪](https://faciylike.github.io/burundi-sim-guides)
+- [比利时](https://faciylike.github.io/belgium-sim-guides)
+- [玻利维亚](https://faciylike.github.io/bolivia-sim-guides)
+- [白俄罗斯](https://faciylike.github.io/belarus-sim-guides)
+- [百慕大](https://faciylike.github.io/bermuda-sim-guides)
+- [英属维尔京群岛](https://faciylike.github.io/british-virgin-islands-sim-guides)
+- [贝宁](https://faciylike.github.io/benin-sim-guides)
 
-> 可用上方搜索框快速筛选国家；或按首字母浏览。
+<h3 id="section-c">C</h3>
+- [中非共和国](https://faciylike.github.io/central-african-republic-sim-guides)
+- [乍得](https://faciylike.github.io/chad-sim-guides)
+- [佛得角](https://faciylike.github.io/cape-verde-sim-guides)
+- [加拿大](https://faciylike.github.io/canada-sim-guides)
+- [古巴](https://faciylike.github.io/cuba-sim-guides)
+- [哥伦比亚](https://faciylike.github.io/colombia-sim-guides)
+- [哥斯达黎加](https://faciylike.github.io/costa-rica-sim-guides)
+- [喀麦隆](https://faciylike.github.io/cameroon-sim-guides)
+- [塞浦路斯](https://faciylike.github.io/cyprus-sim-guides)
+- [开曼群岛](https://faciylike.github.io/cayman-islands-sim-guides)
+- [捷克](https://faciylike.github.io/czech-republic-sim-guides)
+- [智利](https://faciylike.github.io/chile-sim-guides)
+- [柬埔寨](https://faciylike.github.io/cambodia-sim-guides)
+- [科摩罗](https://faciylike.github.io/comoros-sim-guides)
+- [荷属加勒比](https://faciylike.github.io/caribbean-netherlands-sim-guides)
 
-[ A ](#section-A) [ B ](#section-B) [ C ](#section-C) [ D ](#section-D) [ E ](#section-E) [ F ](#section-F) [ G ](#section-G) [ H ](#section-H) [ I ](#section-I) [ J ](#section-J) [ K ](#section-K) [ L ](#section-L) [ M ](#section-M) [ N ](#section-N) [ O ](#section-O) [ P ](#section-P) [ Q ](#section-Q) [ R ](#section-R) [ S ](#section-S) [ T ](#section-T) [ U ](#section-U) [ V ](#section-V) [ W ](#section-W) [ X ](#section-X) [ Y ](#section-Y) [ Z ](#section-Z)
+<h3 id="section-d">D</h3>
+- [刚果民主共和国](https://faciylike.github.io/democratic-republic-of-the-congo-sim-guides)
+- [多米尼克](https://faciylike.github.io/dominica-sim-guides)
+- [多米尼加](https://faciylike.github.io/dominican-republic-sim-guides)
 
+<h3 id="section-e">E</h3>
+- [厄瓜多尔](https://faciylike.github.io/ecuador-sim-guides)
+- [埃及](https://faciylike.github.io/egypt-sim-guides)
+- [埃塞俄比亚](https://faciylike.github.io/ethiopia-sim-guides)
+- [斯威士兰](https://faciylike.github.io/eswatini-sim-guides)
+- [萨尔瓦多](https://faciylike.github.io/el-salvador-sim-guides)
 
-### A
-<a id="section-A"></a>
-<ul class="country-list">
-  <li data-slug="afghanistan" data-cn="阿富汗"><a href="https://faciylike.github.io/afghanistan-sim-guides">阿富汗</a></li>
-  <li data-slug="albania" data-cn="阿尔巴尼亚"><a href="https://faciylike.github.io/albania-sim-guides">阿尔巴尼亚</a></li>
-  <li data-slug="algeria" data-cn="阿尔及利亚"><a href="https://faciylike.github.io/algeria-sim-guides">阿尔及利亚</a></li>
-  <li data-slug="american-samoa" data-cn="美属萨摩亚"><a href="https://faciylike.github.io/american-samoa-sim-guides">美属萨摩亚</a></li>
-  <li data-slug="angola" data-cn="安哥拉"><a href="https://faciylike.github.io/angola-sim-guides">安哥拉</a></li>
-  <li data-slug="anguilla" data-cn="安圭拉"><a href="https://faciylike.github.io/anguilla-sim-guides">安圭拉</a></li>
-  <li data-slug="antigua-and-barbuda" data-cn="安提瓜和巴布达"><a href="https://faciylike.github.io/antigua-and-barbuda-sim-guides">安提瓜和巴布达</a></li>
-  <li data-slug="argentina" data-cn="阿根廷"><a href="https://faciylike.github.io/argentina-sim-guides">阿根廷</a></li>
-  <li data-slug="armenia" data-cn="亚美尼亚"><a href="https://faciylike.github.io/armenia-sim-guides">亚美尼亚</a></li>
-  <li data-slug="aruba" data-cn="阿鲁巴"><a href="https://faciylike.github.io/aruba-sim-guides">阿鲁巴</a></li>
-  <li data-slug="australia" data-cn="澳大利亚"><a href="https://faciylike.github.io/australia-sim-guides">澳大利亚</a></li>
-  <li data-slug="austria" data-cn="奥地利"><a href="https://faciylike.github.io/austria-sim-guides">奥地利</a></li>
-  <li data-slug="azerbaijan" data-cn="阿塞拜疆"><a href="https://faciylike.github.io/azerbaijan-sim-guides">阿塞拜疆</a></li>
-</ul>
+<h3 id="section-f">F</h3>
+- [斐济](https://faciylike.github.io/fiji-sim-guides)
+- [法国](https://faciylike.github.io/france-sim-guides)
+- [法属圭亚那](https://faciylike.github.io/french-guiana-sim-guides)
 
-### B
-<a id="section-B"></a>
-<ul class="country-list">
-  <li data-slug="bahamas" data-cn="巴哈马"><a href="https://faciylike.github.io/bahamas-sim-guides">巴哈马</a></li>
-  <li data-slug="bahrain" data-cn="巴林"><a href="https://faciylike.github.io/bahrain-sim-guides">巴林</a></li>
-  <li data-slug="bangladesh" data-cn="孟加拉国"><a href="https://faciylike.github.io/bangladesh-sim-guides">孟加拉国</a></li>
-  <li data-slug="barbados" data-cn="巴巴多斯"><a href="https://faciylike.github.io/barbados-sim-guides">巴巴多斯</a></li>
-  <li data-slug="belarus" data-cn="白俄罗斯"><a href="https://faciylike.github.io/belarus-sim-guides">白俄罗斯</a></li>
-  <li data-slug="belgium" data-cn="比利时"><a href="https://faciylike.github.io/belgium-sim-guides">比利时</a></li>
-  <li data-slug="belize" data-cn="伯利兹"><a href="https://faciylike.github.io/belize-sim-guides">伯利兹</a></li>
-  <li data-slug="benin" data-cn="贝宁"><a href="https://faciylike.github.io/benin-sim-guides">贝宁</a></li>
-  <li data-slug="bermuda" data-cn="百慕大"><a href="https://faciylike.github.io/bermuda-sim-guides">百慕大</a></li>
-  <li data-slug="bhutan" data-cn="不丹"><a href="https://faciylike.github.io/bhutan-sim-guides">不丹</a></li>
-  <li data-slug="bolivia" data-cn="玻利维亚"><a href="https://faciylike.github.io/bolivia-sim-guides">玻利维亚</a></li>
-  <li data-slug="botswana" data-cn="博茨瓦纳"><a href="https://faciylike.github.io/botswana-sim-guides">博茨瓦纳</a></li>
-  <li data-slug="brazil" data-cn="巴西"><a href="https://faciylike.github.io/brazil-sim-guides">巴西</a></li>
-  <li data-slug="british-virgin-islands" data-cn="英属维尔京群岛"><a href="https://faciylike.github.io/british-virgin-islands-sim-guides">英属维尔京群岛</a></li>
-  <li data-slug="burkina-faso" data-cn="布基纳法索"><a href="https://faciylike.github.io/burkina-faso-sim-guides">布基纳法索</a></li>
-  <li data-slug="burundi" data-cn="布隆迪"><a href="https://faciylike.github.io/burundi-sim-guides">布隆迪</a></li>
-</ul>
+<h3 id="section-g">G</h3>
+- [冈比亚](https://faciylike.github.io/gambia-sim-guides)
+- [几内亚](https://faciylike.github.io/guinea-sim-guides)
+- [几内亚比绍](https://faciylike.github.io/guinea-bissau-sim-guides)
+- [加纳](https://faciylike.github.io/ghana-sim-guides)
+- [加蓬](https://faciylike.github.io/gabon-sim-guides)
+- [危地马拉](https://faciylike.github.io/guatemala-sim-guides)
+- [圭亚那](https://faciylike.github.io/guyana-sim-guides)
+- [希腊](https://faciylike.github.io/greece-sim-guides)
+- [德国](https://faciylike.github.io/germany-sim-guides)
+- [格林纳达](https://faciylike.github.io/grenada-sim-guides)
+- [格鲁吉亚](https://faciylike.github.io/georgia-sim-guides)
+- [瓜德罗普](https://faciylike.github.io/guadeloupe-sim-guides)
 
-### C
-<a id="section-C"></a>
-<ul class="country-list">
-  <li data-slug="cambodia" data-cn="柬埔寨"><a href="https://faciylike.github.io/cambodia-sim-guides">柬埔寨</a></li>
-  <li data-slug="cameroon" data-cn="喀麦隆"><a href="https://faciylike.github.io/cameroon-sim-guides">喀麦隆</a></li>
-  <li data-slug="canada" data-cn="加拿大"><a href="https://faciylike.github.io/canada-sim-guides">加拿大</a></li>
-  <li data-slug="cape-verde" data-cn="佛得角"><a href="https://faciylike.github.io/cape-verde-sim-guides">佛得角</a></li>
-  <li data-slug="caribbean-netherlands" data-cn="荷兰加勒比区"><a href="https://faciylike.github.io/caribbean-netherlands-sim-guides">荷兰加勒比区</a></li>
-  <li data-slug="cayman-islands" data-cn="开曼群岛"><a href="https://faciylike.github.io/cayman-islands-sim-guides">开曼群岛</a></li>
-  <li data-slug="central-african-republic" data-cn="中非共和国"><a href="https://faciylike.github.io/central-african-republic-sim-guides">中非共和国</a></li>
-  <li data-slug="chad" data-cn="乍得"><a href="https://faciylike.github.io/chad-sim-guides">乍得</a></li>
-  <li data-slug="chile" data-cn="智利"><a href="https://faciylike.github.io/chile-sim-guides">智利</a></li>
-  <li data-slug="colombia" data-cn="哥伦比亚"><a href="https://faciylike.github.io/colombia-sim-guides">哥伦比亚</a></li>
-  <li data-slug="comoros" data-cn="科摩罗"><a href="https://faciylike.github.io/comoros-sim-guides">科摩罗</a></li>
-  <li data-slug="costa-rica" data-cn="哥斯达黎加"><a href="https://faciylike.github.io/costa-rica-sim-guides">哥斯达黎加</a></li>
-  <li data-slug="cuba" data-cn="古巴"><a href="https://faciylike.github.io/cuba-sim-guides">古巴</a></li>
-  <li data-slug="cyprus" data-cn="塞浦路斯"><a href="https://faciylike.github.io/cyprus-sim-guides">塞浦路斯</a></li>
-  <li data-slug="czech-republic" data-cn="捷克"><a href="https://faciylike.github.io/czech-republic-sim-guides">捷克</a></li>
-</ul>
+<h3 id="section-h">H</h3>
+- [洪都拉斯](https://faciylike.github.io/honduras-sim-guides)
+- [海地](https://faciylike.github.io/haiti-sim-guides)
+- [香港](https://faciylike.github.io/hong-kong-sim-guides)
 
-### D
-<a id="section-D"></a>
-<ul class="country-list">
-  <li data-slug="democratic-republic-of-the-congo" data-cn="刚果（金）"><a href="https://faciylike.github.io/democratic-republic-of-the-congo-sim-guides">刚果（金）</a></li>
-  <li data-slug="dominica" data-cn="多米尼克"><a href="https://faciylike.github.io/dominica-sim-guides">多米尼克</a></li>
-  <li data-slug="dominican-republic" data-cn="多米尼加共和国"><a href="https://faciylike.github.io/dominican-republic-sim-guides">多米尼加共和国</a></li>
-</ul>
+<h3 id="section-i">I</h3>
+- [以色列](https://faciylike.github.io/israel-sim-guides)
+- [伊拉克](https://faciylike.github.io/iraq-sim-guides)
+- [伊朗](https://faciylike.github.io/iran-sim-guides)
+- [印度](https://faciylike.github.io/india-sim-guides)
+- [印度尼西亚](https://faciylike.github.io/indonesia-sim-guides)
+- [意大利](https://faciylike.github.io/italy-sim-guides)
+- [爱尔兰](https://faciylike.github.io/ireland-sim-guides)
 
-### E
-<a id="section-E"></a>
-<ul class="country-list">
-  <li data-slug="ecuador" data-cn="厄瓜多尔"><a href="https://faciylike.github.io/ecuador-sim-guides">厄瓜多尔</a></li>
-  <li data-slug="egypt" data-cn="埃及"><a href="https://faciylike.github.io/egypt-sim-guides">埃及</a></li>
-  <li data-slug="el-salvador" data-cn="萨尔瓦多"><a href="https://faciylike.github.io/el-salvador-sim-guides">萨尔瓦多</a></li>
-  <li data-slug="eswatini" data-cn="斯威士兰"><a href="https://faciylike.github.io/eswatini-sim-guides">斯威士兰</a></li>
-  <li data-slug="ethiopia" data-cn="埃塞俄比亚"><a href="https://faciylike.github.io/ethiopia-sim-guides">埃塞俄比亚</a></li>
-</ul>
+<h3 id="section-j">J</h3>
+- [日本](https://faciylike.github.io/japan-sim-guides)
+- [牙买加](https://faciylike.github.io/jamaica-sim-guides)
+- [约旦](https://faciylike.github.io/jordan-sim-guides)
 
-### F
-<a id="section-F"></a>
-<ul class="country-list">
-  <li data-slug="fiji" data-cn="斐济"><a href="https://faciylike.github.io/fiji-sim-guides">斐济</a></li>
-  <li data-slug="france" data-cn="法国"><a href="https://faciylike.github.io/france-sim-guides">法国</a></li>
-  <li data-slug="french-guiana" data-cn="法属圭亚那"><a href="https://faciylike.github.io/french-guiana-sim-guides">法属圭亚那</a></li>
-</ul>
+<h3 id="section-k">K</h3>
+- [吉尔吉斯斯坦](https://faciylike.github.io/kyrgyzstan-sim-guides)
+- [哈萨克斯坦](https://faciylike.github.io/kazakhstan-sim-guides)
+- [科威特](https://faciylike.github.io/kuwait-sim-guides)
+- [肯尼亚](https://faciylike.github.io/kenya-sim-guides)
 
-### G
-<a id="section-G"></a>
-<ul class="country-list">
-  <li data-slug="gabon" data-cn="加蓬"><a href="https://faciylike.github.io/gabon-sim-guides">加蓬</a></li>
-  <li data-slug="gambia" data-cn="冈比亚"><a href="https://faciylike.github.io/gambia-sim-guides">冈比亚</a></li>
-  <li data-slug="georgia" data-cn="乔治亚州"><a href="https://faciylike.github.io/georgia-sim-guides">乔治亚州</a></li>
-  <li data-slug="germany" data-cn="德国"><a href="https://faciylike.github.io/germany-sim-guides">德国</a></li>
-  <li data-slug="ghana" data-cn="加纳"><a href="https://faciylike.github.io/ghana-sim-guides">加纳</a></li>
-  <li data-slug="greece" data-cn="希腊"><a href="https://faciylike.github.io/greece-sim-guides">希腊</a></li>
-  <li data-slug="grenada" data-cn="格林纳达"><a href="https://faciylike.github.io/grenada-sim-guides">格林纳达</a></li>
-  <li data-slug="guadeloupe" data-cn="瓜德罗普"><a href="https://faciylike.github.io/guadeloupe-sim-guides">瓜德罗普</a></li>
-  <li data-slug="guatemala" data-cn="危地马拉"><a href="https://faciylike.github.io/guatemala-sim-guides">危地马拉</a></li>
-  <li data-slug="guinea-bissau" data-cn="几内亚比绍共和国"><a href="https://faciylike.github.io/guinea-bissau-sim-guides">几内亚比绍共和国</a></li>
-  <li data-slug="guinea" data-cn="几内亚"><a href="https://faciylike.github.io/guinea-sim-guides">几内亚</a></li>
-  <li data-slug="guyana" data-cn="圭亚那"><a href="https://faciylike.github.io/guyana-sim-guides">圭亚那</a></li>
-</ul>
+<h3 id="section-l">L</h3>
+- [利比里亚](https://faciylike.github.io/liberia-sim-guides)
+- [卢森堡](https://faciylike.github.io/luxembourg-sim-guides)
+- [立陶宛](https://faciylike.github.io/lithuania-sim-guides)
+- [老挝](https://faciylike.github.io/laos-sim-guides)
+- [黎巴嫩](https://faciylike.github.io/lebanon-sim-guides)
 
-### H
-<a id="section-H"></a>
-<ul class="country-list">
-  <li data-slug="haiti" data-cn="海地"><a href="https://faciylike.github.io/haiti-sim-guides">海地</a></li>
-  <li data-slug="honduras" data-cn="洪都拉斯"><a href="https://faciylike.github.io/honduras-sim-guides">洪都拉斯</a></li>
-  <li data-slug="hong-kong" data-cn="香港"><a href="https://faciylike.github.io/hong-kong-sim-guides">香港</a></li>
-</ul>
+<h3 id="section-m">M</h3>
+- [墨西哥](https://faciylike.github.io/mexico-sim-guides)
+- [摩尔多瓦](https://faciylike.github.io/moldova-sim-guides)
+- [摩洛哥](https://faciylike.github.io/morocco-sim-guides)
+- [毛里塔尼亚](https://faciylike.github.io/mauritania-sim-guides)
+- [缅甸](https://faciylike.github.io/myanmar-sim-guides)
+- [莫桑比克](https://faciylike.github.io/mozambique-sim-guides)
+- [蒙古](https://faciylike.github.io/mongolia-sim-guides)
+- [蒙特塞拉特](https://faciylike.github.io/montserrat-sim-guides)
+- [马拉维](https://faciylike.github.io/malawi-sim-guides)
+- [马提尼克](https://faciylike.github.io/martinique-sim-guides)
+- [马来西亚](https://faciylike.github.io/malaysia-sim-guides)
+- [马达加斯加](https://faciylike.github.io/madagascar-sim-guides)
+- [马里](https://faciylike.github.io/mali-sim-guides)
 
-### I
-<a id="section-I"></a>
-<ul class="country-list">
-  <li data-slug="india" data-cn="印度"><a href="https://faciylike.github.io/india-sim-guides">印度</a></li>
-  <li data-slug="indonesia" data-cn="印尼"><a href="https://faciylike.github.io/indonesia-sim-guides">印尼</a></li>
-  <li data-slug="iran" data-cn="伊朗"><a href="https://faciylike.github.io/iran-sim-guides">伊朗</a></li>
-  <li data-slug="iraq" data-cn="伊拉克"><a href="https://faciylike.github.io/iraq-sim-guides">伊拉克</a></li>
-  <li data-slug="ireland" data-cn="爱尔兰"><a href="https://faciylike.github.io/ireland-sim-guides">爱尔兰</a></li>
-  <li data-slug="israel" data-cn="以色列"><a href="https://faciylike.github.io/israel-sim-guides">以色列</a></li>
-  <li data-slug="italy" data-cn="意大利"><a href="https://faciylike.github.io/italy-sim-guides">意大利</a></li>
-</ul>
+<h3 id="section-n">N</h3>
+- [尼加拉瓜](https://faciylike.github.io/nicaragua-sim-guides)
+- [尼日利亚](https://faciylike.github.io/nigeria-sim-guides)
+- [尼日尔](https://faciylike.github.io/niger-sim-guides)
+- [尼泊尔](https://faciylike.github.io/nepal-sim-guides)
+- [瑙鲁](https://faciylike.github.io/nauru-sim-guides)
+- [纳米比亚](https://faciylike.github.io/namibia-sim-guides)
+- [荷兰](https://faciylike.github.io/netherlands-sim-guides)
 
-### J
-<a id="section-J"></a>
-<ul class="country-list">
-  <li data-slug="jamaica" data-cn="牙买加"><a href="https://faciylike.github.io/jamaica-sim-guides">牙买加</a></li>
-  <li data-slug="japan" data-cn="日本"><a href="https://faciylike.github.io/japan-sim-guides">日本</a></li>
-  <li data-slug="jordan" data-cn="约旦"><a href="https://faciylike.github.io/jordan-sim-guides">约旦</a></li>
-</ul>
+<h3 id="section-o">O</h3>
+- [阿曼](https://faciylike.github.io/oman-sim-guides)
 
-### K
-<a id="section-K"></a>
-<ul class="country-list">
-  <li data-slug="kazakhstan" data-cn="哈萨克斯坦"><a href="https://faciylike.github.io/kazakhstan-sim-guides">哈萨克斯坦</a></li>
-  <li data-slug="kenya" data-cn="肯尼亚"><a href="https://faciylike.github.io/kenya-sim-guides">肯尼亚</a></li>
-  <li data-slug="kuwait" data-cn="科威特"><a href="https://faciylike.github.io/kuwait-sim-guides">科威特</a></li>
-  <li data-slug="kyrgyzstan" data-cn="吉尔吉斯斯坦"><a href="https://faciylike.github.io/kyrgyzstan-sim-guides">吉尔吉斯斯坦</a></li>
-</ul>
+<h3 id="section-p">P</h3>
+- [巴勒斯坦](https://faciylike.github.io/palestine-sim-guides)
+- [巴基斯坦](https://faciylike.github.io/pakistan-sim-guides)
+- [巴布亚新几内亚](https://faciylike.github.io/papua-new-guinea-sim-guides)
+- [巴拉圭](https://faciylike.github.io/paraguay-sim-guides)
+- [巴拿马](https://faciylike.github.io/panama-sim-guides)
+- [波兰](https://faciylike.github.io/poland-sim-guides)
+- [波多黎各](https://faciylike.github.io/puerto-rico-sim-guides)
+- [秘鲁](https://faciylike.github.io/peru-sim-guides)
+- [菲律宾](https://faciylike.github.io/philippines-sim-guides)
+- [葡萄牙](https://faciylike.github.io/portugal-sim-guides)
 
-### L
-<a id="section-L"></a>
-<ul class="country-list">
-  <li data-slug="laos" data-cn="老挝"><a href="https://faciylike.github.io/laos-sim-guides">老挝</a></li>
-  <li data-slug="lebanon" data-cn="黎巴嫩"><a href="https://faciylike.github.io/lebanon-sim-guides">黎巴嫩</a></li>
-  <li data-slug="liberia" data-cn="利比里亚"><a href="https://faciylike.github.io/liberia-sim-guides">利比里亚</a></li>
-  <li data-slug="lithuania" data-cn="立陶宛"><a href="https://faciylike.github.io/lithuania-sim-guides">立陶宛</a></li>
-  <li data-slug="luxembourg" data-cn="卢森堡"><a href="https://faciylike.github.io/luxembourg-sim-guides">卢森堡</a></li>
-</ul>
+<h3 id="section-q">Q</h3>
+- [卡塔尔](https://faciylike.github.io/qatar-sim-guides)
 
-### M
-<a id="section-M"></a>
-<ul class="country-list">
-  <li data-slug="madagascar" data-cn="马达加斯加"><a href="https://faciylike.github.io/madagascar-sim-guides">马达加斯加</a></li>
-  <li data-slug="malawi" data-cn="马拉维"><a href="https://faciylike.github.io/malawi-sim-guides">马拉维</a></li>
-  <li data-slug="malaysia" data-cn="马来西亚"><a href="https://faciylike.github.io/malaysia-sim-guides">马来西亚</a></li>
-  <li data-slug="mali" data-cn="马里"><a href="https://faciylike.github.io/mali-sim-guides">马里</a></li>
-  <li data-slug="martinique" data-cn="马提尼克"><a href="https://faciylike.github.io/martinique-sim-guides">马提尼克</a></li>
-  <li data-slug="mauritania" data-cn="毛里塔尼亚"><a href="https://faciylike.github.io/mauritania-sim-guides">毛里塔尼亚</a></li>
-  <li data-slug="mexico" data-cn="墨西哥"><a href="https://faciylike.github.io/mexico-sim-guides">墨西哥</a></li>
-  <li data-slug="moldova" data-cn="摩尔多瓦"><a href="https://faciylike.github.io/moldova-sim-guides">摩尔多瓦</a></li>
-  <li data-slug="mongolia" data-cn="蒙古"><a href="https://faciylike.github.io/mongolia-sim-guides">蒙古</a></li>
-  <li data-slug="montserrat" data-cn="蒙特塞拉特"><a href="https://faciylike.github.io/montserrat-sim-guides">蒙特塞拉特</a></li>
-  <li data-slug="morocco" data-cn="摩洛哥"><a href="https://faciylike.github.io/morocco-sim-guides">摩洛哥</a></li>
-  <li data-slug="mozambique" data-cn="莫桑比克"><a href="https://faciylike.github.io/mozambique-sim-guides">莫桑比克</a></li>
-  <li data-slug="myanmar" data-cn="缅甸"><a href="https://faciylike.github.io/myanmar-sim-guides">缅甸</a></li>
-</ul>
+<h3 id="section-r">R</h3>
+- [俄罗斯](https://faciylike.github.io/russia-sim-guides)
+- [刚果共和国](https://faciylike.github.io/republic-of-the-congo-sim-guides)
+- [卢旺达](https://faciylike.github.io/rwanda-sim-guides)
+- [留尼汪](https://faciylike.github.io/runion-sim-guides)
+- [罗马尼亚](https://faciylike.github.io/romania-sim-guides)
 
-### N
-<a id="section-N"></a>
-<ul class="country-list">
-  <li data-slug="namibia" data-cn="纳米比亚"><a href="https://faciylike.github.io/namibia-sim-guides">纳米比亚</a></li>
-  <li data-slug="nauru" data-cn="瑙鲁"><a href="https://faciylike.github.io/nauru-sim-guides">瑙鲁</a></li>
-  <li data-slug="nepal" data-cn="尼泊尔"><a href="https://faciylike.github.io/nepal-sim-guides">尼泊尔</a></li>
-  <li data-slug="netherlands" data-cn="荷兰"><a href="https://faciylike.github.io/netherlands-sim-guides">荷兰</a></li>
-  <li data-slug="nicaragua" data-cn="尼加拉瓜"><a href="https://faciylike.github.io/nicaragua-sim-guides">尼加拉瓜</a></li>
-  <li data-slug="niger" data-cn="尼日尔"><a href="https://faciylike.github.io/niger-sim-guides">尼日尔</a></li>
-  <li data-slug="nigeria" data-cn="尼日利亚"><a href="https://faciylike.github.io/nigeria-sim-guides">尼日利亚</a></li>
-</ul>
+<h3 id="section-s">S</h3>
+- [南非](https://faciylike.github.io/south-africa-sim-guides)
+- [叙利亚](https://faciylike.github.io/syria-sim-guides)
+- [圣卢西亚](https://faciylike.github.io/saint-lucia-sim-guides)
+- [圣基茨和尼维斯](https://faciylike.github.io/saint-kitts-and-nevis-sim-guides)
+- [圣文森特和格林纳丁斯](https://faciylike.github.io/saint-vincent-and-the-grenadines-sim-guides)
+- [圣马丁](https://faciylike.github.io/saint-martin-sim-guides)
+- [塞内加尔](https://faciylike.github.io/senegal-sim-guides)
+- [塞拉利昂](https://faciylike.github.io/sierra-leone-sim-guides)
+- [斯里兰卡](https://faciylike.github.io/sri-lanka-sim-guides)
+- [新加坡](https://faciylike.github.io/singapore-sim-guides)
+- [沙特阿拉伯](https://faciylike.github.io/saudi-arabia-sim-guides)
+- [瑞典](https://faciylike.github.io/sweden-sim-guides)
+- [瑞士](https://faciylike.github.io/switzerland-sim-guides)
+- [索马里](https://faciylike.github.io/somalia-sim-guides)
+- [苏丹](https://faciylike.github.io/sudan-sim-guides)
+- [苏里南](https://faciylike.github.io/suriname-sim-guides)
+- [荷属圣马丁](https://faciylike.github.io/sint-maarten-sim-guides)
+- [萨摩亚](https://faciylike.github.io/samoa-sim-guides)
+- [西班牙](https://faciylike.github.io/spain-sim-guides)
+- [韩国](https://faciylike.github.io/south-korea-sim-guides)
 
-### O
-<a id="section-O"></a>
-<ul class="country-list">
-  <li data-slug="oman" data-cn="阿曼"><a href="https://faciylike.github.io/oman-sim-guides">阿曼</a></li>
-</ul>
+<h3 id="section-t">T</h3>
+- [土耳其](https://faciylike.github.io/turkey-sim-guides)
+- [坦桑尼亚](https://faciylike.github.io/tanzania-sim-guides)
+- [塔吉克斯坦](https://faciylike.github.io/tajikistan-sim-guides)
+- [多哥](https://faciylike.github.io/togo-sim-guides)
+- [汤加](https://faciylike.github.io/tonga-sim-guides)
+- [泰国](https://faciylike.github.io/thailand-sim-guides)
+- [特克斯和凯科斯群岛](https://faciylike.github.io/turks-and-caicos-islands-sim-guides)
+- [特立尼达和多巴哥](https://faciylike.github.io/trinidad-and-tobago-sim-guides)
+- [突尼斯](https://faciylike.github.io/tunisia-sim-guides)
 
-### P
-<a id="section-P"></a>
-<ul class="country-list">
-  <li data-slug="pakistan" data-cn="巴基斯坦"><a href="https://faciylike.github.io/pakistan-sim-guides">巴基斯坦</a></li>
-  <li data-slug="palestine" data-cn="巴勒斯坦"><a href="https://faciylike.github.io/palestine-sim-guides">巴勒斯坦</a></li>
-  <li data-slug="panama" data-cn="巴拿马"><a href="https://faciylike.github.io/panama-sim-guides">巴拿马</a></li>
-  <li data-slug="papua-new-guinea" data-cn="巴布亚新几内亚"><a href="https://faciylike.github.io/papua-new-guinea-sim-guides">巴布亚新几内亚</a></li>
-  <li data-slug="paraguay" data-cn="巴拉圭"><a href="https://faciylike.github.io/paraguay-sim-guides">巴拉圭</a></li>
-  <li data-slug="peru" data-cn="秘鲁"><a href="https://faciylike.github.io/peru-sim-guides">秘鲁</a></li>
-  <li data-slug="philippines" data-cn="菲律宾"><a href="https://faciylike.github.io/philippines-sim-guides">菲律宾</a></li>
-  <li data-slug="poland" data-cn="波兰"><a href="https://faciylike.github.io/poland-sim-guides">波兰</a></li>
-  <li data-slug="portugal" data-cn="葡萄牙"><a href="https://faciylike.github.io/portugal-sim-guides">葡萄牙</a></li>
-  <li data-slug="puerto-rico" data-cn="波多黎各"><a href="https://faciylike.github.io/puerto-rico-sim-guides">波多黎各</a></li>
-</ul>
+<h3 id="section-u">U</h3>
+- [乌克兰](https://faciylike.github.io/ukraine-sim-guides)
+- [乌兹别克斯坦](https://faciylike.github.io/uzbekistan-sim-guides)
+- [乌干达](https://faciylike.github.io/uganda-sim-guides)
+- [乌拉圭](https://faciylike.github.io/uruguay-sim-guides)
+- [美国](https://faciylike.github.io/united-states-sim-guides)
+- [英国](https://faciylike.github.io/united-kingdom-sim-guides)
+- [阿拉伯联合酋长国](https://faciylike.github.io/united-arab-emirates-sim-guides)
 
-### Q
-<a id="section-Q"></a>
-<ul class="country-list">
-  <li data-slug="qatar" data-cn="卡塔尔"><a href="https://faciylike.github.io/qatar-sim-guides">卡塔尔</a></li>
-</ul>
+<h3 id="section-v">V</h3>
+- [委内瑞拉](https://faciylike.github.io/venezuela-sim-guides)
+- [瓦努阿图](https://faciylike.github.io/vanuatu-sim-guides)
+- [越南](https://faciylike.github.io/vietnam-sim-guides)
 
-### R
-<a id="section-R"></a>
-<ul class="country-list">
-  <li data-slug="republic-of-the-congo" data-cn="刚果（布）"><a href="https://faciylike.github.io/republic-of-the-congo-sim-guides">刚果（布）</a></li>
-  <li data-slug="romania" data-cn="罗马尼亚"><a href="https://faciylike.github.io/romania-sim-guides">罗马尼亚</a></li>
-  <li data-slug="runion" data-cn="留尼汪"><a href="https://faciylike.github.io/runion-sim-guides">留尼汪</a></li>
-  <li data-slug="russia" data-cn="俄罗斯联邦"><a href="https://faciylike.github.io/russia-sim-guides">俄罗斯联邦</a></li>
-  <li data-slug="rwanda" data-cn="卢旺达"><a href="https://faciylike.github.io/rwanda-sim-guides">卢旺达</a></li>
-</ul>
+<h3 id="section-y">Y</h3>
+- [也门](https://faciylike.github.io/yemen-sim-guides)
 
-### S
-<a id="section-S"></a>
-<ul class="country-list">
-  <li data-slug="saint-kitts-and-nevis" data-cn="圣基茨和尼维斯"><a href="https://faciylike.github.io/saint-kitts-and-nevis-sim-guides">圣基茨和尼维斯</a></li>
-  <li data-slug="saint-lucia" data-cn="圣卢西亚"><a href="https://faciylike.github.io/saint-lucia-sim-guides">圣卢西亚</a></li>
-  <li data-slug="saint-martin" data-cn="圣马丁岛"><a href="https://faciylike.github.io/saint-martin-sim-guides">圣马丁岛</a></li>
-  <li data-slug="saint-vincent-and-the-grenadines" data-cn="圣文森特和格林纳丁斯"><a href="https://faciylike.github.io/saint-vincent-and-the-grenadines-sim-guides">圣文森特和格林纳丁斯</a></li>
-  <li data-slug="samoa" data-cn="萨摩亚"><a href="https://faciylike.github.io/samoa-sim-guides">萨摩亚</a></li>
-  <li data-slug="saudi-arabia" data-cn="沙特阿拉伯"><a href="https://faciylike.github.io/saudi-arabia-sim-guides">沙特阿拉伯</a></li>
-  <li data-slug="senegal" data-cn="塞内加尔"><a href="https://faciylike.github.io/senegal-sim-guides">塞内加尔</a></li>
-  <li data-slug="sierra-leone" data-cn="塞拉利昂"><a href="https://faciylike.github.io/sierra-leone-sim-guides">塞拉利昂</a></li>
-  <li data-slug="singapore" data-cn="新加坡"><a href="https://faciylike.github.io/singapore-sim-guides">新加坡</a></li>
-  <li data-slug="sint-maarten" data-cn="荷属圣马丁"><a href="https://faciylike.github.io/sint-maarten-sim-guides">荷属圣马丁</a></li>
-  <li data-slug="somalia" data-cn="索马里"><a href="https://faciylike.github.io/somalia-sim-guides">索马里</a></li>
-  <li data-slug="south-africa" data-cn="南非"><a href="https://faciylike.github.io/south-africa-sim-guides">南非</a></li>
-  <li data-slug="south-korea" data-cn="韩国"><a href="https://faciylike.github.io/south-korea-sim-guides">韩国</a></li>
-  <li data-slug="spain" data-cn="西班牙"><a href="https://faciylike.github.io/spain-sim-guides">西班牙</a></li>
-  <li data-slug="sri-lanka" data-cn="斯里兰卡"><a href="https://faciylike.github.io/sri-lanka-sim-guides">斯里兰卡</a></li>
-  <li data-slug="sudan" data-cn="苏丹"><a href="https://faciylike.github.io/sudan-sim-guides">苏丹</a></li>
-  <li data-slug="suriname" data-cn="苏里南"><a href="https://faciylike.github.io/suriname-sim-guides">苏里南</a></li>
-  <li data-slug="sweden" data-cn="瑞典"><a href="https://faciylike.github.io/sweden-sim-guides">瑞典</a></li>
-  <li data-slug="switzerland" data-cn="瑞士"><a href="https://faciylike.github.io/switzerland-sim-guides">瑞士</a></li>
-  <li data-slug="syria" data-cn="叙利亚"><a href="https://faciylike.github.io/syria-sim-guides">叙利亚</a></li>
-</ul>
+<h3 id="section-z">Z</h3>
+- [津巴布韦](https://faciylike.github.io/zimbabwe-sim-guides)
+- [赞比亚](https://faciylike.github.io/zambia-sim-guides)
 
-### T
-<a id="section-T"></a>
-<ul class="country-list">
-  <li data-slug="tajikistan" data-cn="塔吉克斯坦"><a href="https://faciylike.github.io/tajikistan-sim-guides">塔吉克斯坦</a></li>
-  <li data-slug="tanzania" data-cn="坦桑尼亚"><a href="https://faciylike.github.io/tanzania-sim-guides">坦桑尼亚</a></li>
-  <li data-slug="thailand" data-cn="泰国"><a href="https://faciylike.github.io/thailand-sim-guides">泰国</a></li>
-  <li data-slug="togo" data-cn="多哥"><a href="https://faciylike.github.io/togo-sim-guides">多哥</a></li>
-  <li data-slug="tonga" data-cn="汤加"><a href="https://faciylike.github.io/tonga-sim-guides">汤加</a></li>
-  <li data-slug="trinidad-and-tobago" data-cn="特立尼达和多巴哥"><a href="https://faciylike.github.io/trinidad-and-tobago-sim-guides">特立尼达和多巴哥</a></li>
-  <li data-slug="tunisia" data-cn="突尼斯"><a href="https://faciylike.github.io/tunisia-sim-guides">突尼斯</a></li>
-  <li data-slug="turkey" data-cn="土耳其"><a href="https://faciylike.github.io/turkey-sim-guides">土耳其</a></li>
-  <li data-slug="turks-and-caicos-islands" data-cn="特克斯和凯科斯群岛"><a href="https://faciylike.github.io/turks-and-caicos-islands-sim-guides">特克斯和凯科斯群岛</a></li>
-</ul>
+<!-- IO_NAVIGATION_END -->
 
-### U
-<a id="section-U"></a>
-<ul class="country-list">
-  <li data-slug="uganda" data-cn="乌干达"><a href="https://faciylike.github.io/uganda-sim-guides">乌干达</a></li>
-  <li data-slug="ukraine" data-cn="乌克兰"><a href="https://faciylike.github.io/ukraine-sim-guides">乌克兰</a></li>
-  <li data-slug="united-arab-emirates" data-cn="阿拉伯联合酋长国(阿联酋迪拜)"><a href="https://faciylike.github.io/united-arab-emirates-sim-guides">阿拉伯联合酋长国(阿联酋迪拜)</a></li>
-  <li data-slug="united-kingdom" data-cn="英国"><a href="https://faciylike.github.io/united-kingdom-sim-guides">英国</a></li>
-  <li data-slug="united-states" data-cn="美国"><a href="https://faciylike.github.io/united-states-sim-guides">美国</a></li>
-  <li data-slug="uruguay" data-cn="乌拉圭"><a href="https://faciylike.github.io/uruguay-sim-guides">乌拉圭</a></li>
-  <li data-slug="uzbekistan" data-cn="乌兹别克斯坦"><a href="https://faciylike.github.io/uzbekistan-sim-guides">乌兹别克斯坦</a></li>
-</ul>
+## 实用攻略
 
-### V
-<a id="section-V"></a>
-<ul class="country-list">
-  <li data-slug="vanuatu" data-cn="瓦努阿图"><a href="https://faciylike.github.io/vanuatu-sim-guides">瓦努阿图</a></li>
-  <li data-slug="venezuela" data-cn="委内瑞拉"><a href="https://faciylike.github.io/venezuela-sim-guides">委内瑞拉</a></li>
-  <li data-slug="vietnam" data-cn="越南"><a href="https://faciylike.github.io/vietnam-sim-guides">越南</a></li>
-</ul>
+在您根据目的地查阅详细指南前，这里有一些通用建议能帮助您更好地做出选择：
 
-### Y
-<a id="section-Y"></a>
-<ul class="country-list">
-  <li data-slug="yemen" data-cn="也门"><a href="https://faciylike.github.io/yemen-sim-guides">也门</a></li>
-</ul>
-
-### Z
-<a id="section-Z"></a>
-<ul class="country-list">
-  <li data-slug="zambia" data-cn="赞比亚"><a href="https://faciylike.github.io/zambia-sim-guides">赞比亚</a></li>
-  <li data-slug="zimbabwe" data-cn="津巴布韦"><a href="https://faciylike.github.io/zimbabwe-sim-guides">津巴布韦</a></li>
-</ul>
-
----
-
-## 站点说明
-
-　　本站由 faciylike 维护，为非官方信息导航与经验总结。若信息存在偏差，欢迎在对应仓库提交 Issue 反馈。
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "全球手机卡选购与激活中文导航",
-  "url": "https://faciylike.github.io",
-    "hasPart": [{"@type": "WebPage", "url": "https://azpetavircava.github.io"}],
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://faciylike.github.io/?q={query}",
-    "query-input": "required name=query"
-  }
-}
-</script>
-
-<script>
-const input=document.getElementById('search');
-function normalize(s){return (s||'').toLowerCase();}
-function match(li,q){const cn=li.getAttribute('data-cn')||'';const slug=li.getAttribute('data-slug')||'';return normalize(cn).includes(q)||normalize(slug).includes(q);}
-input&&input.addEventListener('input',()=>{const q=normalize(input.value||'');document.querySelectorAll('ul.country-list').forEach(ul=>{ul.querySelectorAll('li').forEach(li=>{li.style.display=(q && !match(li,q))?'none':'';});});});
-</script>
-</div>
-
-<!-- BEGIN_HUB_FAQ -->
-## FAQ
-
-### 国际上网卡的FUP限速规则如何识别？
-关注套餐说明中的“达量降速/峰值速率”字段；达阈值后可能降至128–512kbps，建议按需选择更高档位。
-
-### 我的手机是否兼容？有哪些基本要求？
-建议解锁机并支持目的地常用频段；eSIM方案需机型支持eSIM配置；不确定可查询机型频段或咨询门店。
-
-### 是否可以热点共享与多设备？
-多数套餐允许热点共享，但需留意共享上限与速度限制；多人场景建议选择更高档位或路由器卡。
-
-### 无法上网如何自查？
-检查SIM是否激活与套餐是否生效→核对APN→开关飞行模式→更换网络模式/手动搜网，再次测速验证。
-
-### eSIM与实体卡如何选择？
-eSIM省去插卡，适合主力机；实体卡兼容更广，适合备用机或路由器卡；按行程时长与设备选择。
-
-### 需要人工协助时怎么联系？
-可在购买前后获得远程配置与排障引导，需要时联系 ✈ [@esim1088](https://t.me/s/esim1088)（仅一次商务信息）。
-
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "国际上网卡的FUP限速规则如何识别？", "acceptedAnswer": {"@type": "Answer", "text": "关注套餐说明中的“达量降速/峰值速率”字段；达阈值后可能降至128–512kbps，建议按需选择更高档位。"}}, {"@type": "Question", "name": "我的手机是否兼容？有哪些基本要求？", "acceptedAnswer": {"@type": "Answer", "text": "建议解锁机并支持目的地常用频段；eSIM方案需机型支持eSIM配置；不确定可查询机型频段或咨询门店。"}}, {"@type": "Question", "name": "是否可以热点共享与多设备？", "acceptedAnswer": {"@type": "Answer", "text": "多数套餐允许热点共享，但需留意共享上限与速度限制；多人场景建议选择更高档位或路由器卡。"}}, {"@type": "Question", "name": "无法上网如何自查？", "acceptedAnswer": {"@type": "Answer", "text": "检查SIM是否激活与套餐是否生效→核对APN→开关飞行模式→更换网络模式/手动搜网，再次测速验证。"}}, {"@type": "Question", "name": "eSIM与实体卡如何选择？", "acceptedAnswer": {"@type": "Answer", "text": "eSIM省去插卡，适合主力机；实体卡兼容更广，适合备用机或路由器卡；按行程时长与设备选择。"}}, {"@type": "Question", "name": "需要人工协助时怎么联系？", "acceptedAnswer": {"@type": "Answer", "text": "可在购买前后获得远程配置与排障引导，需要时联系 ✈ @esim1088（仅一次商务信息）。"}}]}</script>
-<!-- END_HUB_FAQ -->
+1.  **明确需求，挑选套餐**：出行前先估算自己的流量、通话和短信需求。是短期旅行需要大流量套餐，还是长期居留更看重月租性价比？了解清楚需求能帮助您在海量套餐中快速筛选。
+2.  **确认手机兼容性**：购买前，请务必确认您的手机支持目的地国家的网络频段（如4G LTE Band），并检查是否为网络锁机，避免卡插入后无法使用的尴尬。
+3.  **准备证件，避坑实名制**：许多国家已严格执行手机卡实名注册政策。购买时请务必随身携带护照等有效身份证件原件，并预留充足时间完成办理流程，以免影响使用
