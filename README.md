@@ -1,41 +1,25 @@
-# faciylike.github.io — 全球手机卡中文导航
+# 手机卡 IO Hub
 
-- 主页：https://faciylike.github.io
-- 业务切换：https://azpetavircava.github.io
 
-## 快速导航（TOP 30）
+我们能帮你做什么？
 
-- [阿富汗](https://faciylike.github.io/afghanistan-sim-guides)
-- [阿尔巴尼亚](https://faciylike.github.io/albania-sim-guides)
-- [阿尔及利亚](https://faciylike.github.io/algeria-sim-guides)
-- [美属萨摩亚](https://faciylike.github.io/american-samoa-sim-guides)
-- [安哥拉](https://faciylike.github.io/angola-sim-guides)
-- [安圭拉](https://faciylike.github.io/anguilla-sim-guides)
-- [安提瓜和巴布达](https://faciylike.github.io/antigua-and-barbuda-sim-guides)
-- [阿根廷](https://faciylike.github.io/argentina-sim-guides)
-- [亚美尼亚](https://faciylike.github.io/armenia-sim-guides)
-- [阿鲁巴](https://faciylike.github.io/aruba-sim-guides)
-- [澳大利亚](https://faciylike.github.io/australia-sim-guides)
-- [奥地利](https://faciylike.github.io/austria-sim-guides)
-- [阿塞拜疆](https://faciylike.github.io/azerbaijan-sim-guides)
-- [巴哈马](https://faciylike.github.io/bahamas-sim-guides)
-- [巴林](https://faciylike.github.io/bahrain-sim-guides)
-- [孟加拉国](https://faciylike.github.io/bangladesh-sim-guides)
-- [巴巴多斯](https://faciylike.github.io/barbados-sim-guides)
-- [白俄罗斯](https://faciylike.github.io/belarus-sim-guides)
-- [比利时](https://faciylike.github.io/belgium-sim-guides)
-- [伯利兹](https://faciylike.github.io/belize-sim-guides)
-- [贝宁](https://faciylike.github.io/benin-sim-guides)
-- [百慕大](https://faciylike.github.io/bermuda-sim-guides)
-- [不丹](https://faciylike.github.io/bhutan-sim-guides)
-- [玻利维亚](https://faciylike.github.io/bolivia-sim-guides)
-- [博茨瓦纳](https://faciylike.github.io/botswana-sim-guides)
-- [巴西](https://faciylike.github.io/brazil-sim-guides)
-- [英属维尔京群岛](https://faciylike.github.io/british-virgin-islands-sim-guides)
-- [布基纳法索](https://faciylike.github.io/burkina-faso-sim-guides)
-- [布隆迪](https://faciylike.github.io/burundi-sim-guides)
-- [柬埔寨](https://faciylike.github.io/cambodia-sim-guides)
+- **选购建议**：根据你的目的地和流量需求，推荐最合适的 SIM 卡或 eSIM 数据套餐。
+- **开通与配置**：提供从购买到激活的全程指引，包括 APN 设置等详细配置步骤。
+- **注意事项与 FAQ**：解答常见问题，如设备兼容性、有效期、续费方式等，助你避坑。
+- **覆盖范围与资费概览**：基于 2025 年最新信息，概览主要国家/地区的网络覆盖和资费情况。
 
-## 说明
+如何快速开始？
 
-本仓库通过 gh-pages 提供主页聚合导航；各国家页面分布于子仓库。欢迎 Issue 反馈。
+1. 选择你的目的地国家；
+2. 选择你需要的数据业务类型（如：纯数据套餐或含语音的 SIM 卡）；
+3. 通过站内导航或搜索进入对应国家页面，并按照指引完成购买与配置。
+
+常见问题与支持
+
+**Q：我的设备支持 eSIM 吗？**  
+A：大多数 2018 年后发布的智能手机、平板及智能手表均支持。你可以在设备设置或厂商官网查询具体型号的兼容性。
+
+**Q：在境外无法上网，如何检查？**  
+A：首先，请确保已按照指引正确安装 eSIM 或插入 SIM 卡，并手动配置了 APN。详情可查阅具体国家页面的配置指南。若问题依旧，欢迎通过 ✈ [@esim1088](https://t.me/s/esim1088) 联系我们的支持团队获取帮助。
+
+最后更新：2025-09-24 | 版权所有 © 手机卡
